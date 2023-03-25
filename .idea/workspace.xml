@@ -6,7 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="4e9763ab-3026-4824-b733-43cc60e53114" name="Changes" comment="">
       <changelist_data name="https://github.com/mxmva/-java_homework.git" email="" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Homework5/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Final/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Final/Notebook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Final/OperationWithNotebook.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
